@@ -1,5 +1,7 @@
+![Aws ML.png](http://Site-Merch_SageMaker-Rubik-Herring_SocialMedia_2.pngSite-Merch_SageMaker-Rubik-Herring_SocialMedia_2.png)
+
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### Nader Salama
+## Nader Salama
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
